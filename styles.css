@@ -1,0 +1,46 @@
+
+/* 	font-family: 'Bad Script', cursive;
+	font-family: 'Architects Daughter', cursive;*/
+
+h1 { color: #Ff9944; 
+	font-size: 40px; 
+	font-family: 'Bad Script', cursive;
+	background-color: #200439 ;
+}
+
+p { font-size: 15px;
+	font-family: 'Architects Daughter', cursive;
+}
+body { background: url(images/regal.png)
+
+}
+img { height: 500px
+	  width: 800px
+
+} 
+#purple-gem { float: left;
+			  margin: 10px 20px 10px;
+
+}
+
+a { font-family: 'Bad Script', cursive;
+	display: inline-block;
+	padding: 12px
+	margin: 0 auto;
+	border: solid #200439;
+	background-color: #200439;
+	color: #Ff9944;
+	text-align: center;
+	-moz-border-radius-topleft: 16px;
+	-webkit-border-top-left-radius: 16px;
+ 	border-top-left-radius: 16px;
+	-moz-border-radius-bottomright: 16px;
+	-webkit-border-bottom-right-radius: 16px;
+	border-bottom-right-radius: 16px;
+	-webkit-box-shadow: 5px 5px 10px 0px rgba(96, 50, 50, 0.78);
+	-moz-box-shadow:    5px 5px 10px 0px rgba(96, 50, 50, 0.78);
+	box-shadow:         5px 5px 10px 0px rgba(96, 50, 50, 0.78);
+
+
+
+}
