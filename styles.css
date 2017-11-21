@@ -2,14 +2,14 @@
 /* 	font-family: 'Bad Script', cursive;
 	font-family: 'Architects Daughter', cursive;*/
 
-h1 { color: #Ff9944; 
+h1 { 
+	color: #Ff9944; 
 	font-size: 40px; 
 	font-family: 'Bad Script', cursive;
 	background-color: #200439 ;
 	padding: 40px;
 	text-align: center;
 }
-
 p { font-size: 15px;
 	font-family: serif;
 }
@@ -18,15 +18,11 @@ body { background: url(images/regal.png)
 }
 img { height: 500px;
 	  width: 100%;
-
 } 
 #purple-gem { float: left;
 			  margin: 10px 20px 10px;
 			  width: 500px;
-
-
 }
-
 a { font-family: 'Bad Script', cursive;
 	display: inline-block;
 	padding: 12px
@@ -46,7 +42,4 @@ a { font-family: 'Bad Script', cursive;
 	-webkit-box-shadow: 5px 5px 10px 0px rgba(96, 50, 50, 0.78);
 	-moz-box-shadow:    5px 5px 10px 0px rgba(96, 50, 50, 0.78);
 	box-shadow:         5px 5px 10px 0px rgba(96, 50, 50, 0.78);
-
-
-
 }
